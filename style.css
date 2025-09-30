@@ -1,0 +1,84 @@
+#contenedor{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    align-items:center;
+    min-height:55vh;
+    width:60vh;
+    max-width: 600px;
+    background-color:white;
+    border:3px solid black;
+    border-radius:10px;
+    
+}
+
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    text-align:center;
+    background:url(images/biblioteca_fondo.jpg) no-repeat center center/cover
+}
+
+#citasMotivacionales{
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-weight:bold;
+    color:black;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    align-items:center;
+    width:80%;
+    height:80%;
+    margin:15px 0; 
+    background-color:#fff;
+}
+
+#boton{
+  width: 130px;
+  height: 30px;
+  font-size: 10px;
+  justify-content:center;
+  margin:17px;
+}
+
+#cita{
+    font-family:"Lora", serif;
+    font-size:25px;
+    font-weight:bold;
+    color:black;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    align-items:center;
+    width:80%;
+    height:80%;
+    margin:15px 0; 
+    background-color:#ffffff;
+    border-radius:3px;
+}
+
+#autor{
+    font-family:"Lora", serif;
+    font-size:10px;
+    font-weight:bold;
+    color:black;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    align-items:center;
+    width:80%;
+    height:80%;
+    margin:15px 0; 
+    background-color:#ffffff;
+}
+
+.contenido-centrado {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
