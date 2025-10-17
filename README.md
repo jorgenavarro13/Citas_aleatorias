@@ -34,7 +34,8 @@ No se requiere instalación de librerías ni dependencias. Simplemente sigue est
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone [https://github.com/jorgenavarro13/Citas_Aleatorias.git](https://github.com/tu_usuario/Citas_Aleatorias.git)
+    git clone https://github.com/jorgenavarro13/Citas_Aleatorias.git
+    cd Citas_aleatorias
     ```
 2.  **Abrir el Archivo:**
     Navega al directorio clonado y abre el archivo `index.html` directamente en tu navegador web.
